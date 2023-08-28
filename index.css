@@ -83,6 +83,7 @@ h1{
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
+    display: none;
 }
 .select-btn:hover{
 width: 140px;
@@ -178,7 +179,7 @@ opacity: 1;
     left: 50%;
     top: 50%;
     transform: translate(-50%,50%);
-   
+    
 }
 #floatBarsG{
 	position:relative;

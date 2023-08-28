@@ -18,6 +18,7 @@ submitBtn.classList.add('btn', 'form-btn')
 
 window.addEventListener('load',()=>{
     preLoader.style.display = 'none'
+    selectorContainer.style.display = 'block'
 })
 
 
